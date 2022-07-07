@@ -1,4 +1,4 @@
-# Data Transfer Protocol
+# Reliable Transport Protocols
 
 ## Overview
 In this programming assignment, we have written the sending and receiving transport-layer code for implementing a simple reliable data transfer protocol. There are 3 versions of this assignment,
